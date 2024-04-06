@@ -2,7 +2,7 @@
 
 /**
  * Plugin Name: Templ Woo Cats
- * Plugin URI: https://github.com/
+ * Plugin URI: https://github.com/bouveng/templ-woo-cats
  * Description: Displays cats on the WooCommerce MyAccount page.
  * Author: Templ AB
  * Author URI: https://templ.io/
